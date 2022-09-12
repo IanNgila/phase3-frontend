@@ -18,8 +18,8 @@ function App() {
         <Routes>
         < Route path="/" element={<Home />} /> 
         < Route path="/Projects" element={<Projects />} />
-        {/* < Route path="/CreateProject" element={<CreateProject />} /> */}
-        {/* < Route path="/Programminglanguages" element={<Programminglanguages />} /> */}
+        < Route path="/CreateProject" element={<CreateProject />} />
+        < Route path="/Programminglanguages" element={<Programminglanguages />} />
         </Routes>
       </Router>
       <div className="bg" />
