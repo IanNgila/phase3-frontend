@@ -13,6 +13,8 @@
  - [Authors Info](#Authors-Info)
  ## Description
  <p>This project is a web application for Project REsource that shows details about the services it offers, has information about the project, a portfolio section and a form that enables users to send their messages and concern to Delani studio</p>
+  
+#Live-Link (https://gleaming-pony-44468a.netlify.app/)
 
 ## Features
 As a user of the application,you will be able to :
