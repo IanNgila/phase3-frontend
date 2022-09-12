@@ -4,7 +4,7 @@ import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Navbar from './components/Navbar';
 import Projects from './components/Projects';
 import CreateProject from './components/CreateProject';
-// import Programminglanguages from './components/Programminglanguages';
+import Programminglanguages from './components/Programminglanguages';
 import React from 'react'
 
 function App() {
